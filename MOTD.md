@@ -104,6 +104,8 @@ Assisting And Countering Has No Cooldown
 
 Bank raid = 15 Minutes (The cooldown is shared between everyone on the server)
 
+Kidnapping: 10 minutes someone else, 20 minutes same person.
+
 Shooting rules:
 
 You can fire at someone if:
